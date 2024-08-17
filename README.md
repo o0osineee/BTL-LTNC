@@ -7,12 +7,19 @@
    Sau khi khởi chạy code chờ một lúc, màn hình game sẽ hiện lên
    
 ![menu](https://github.com/user-attachments/assets/341599e4-0edd-4054-8b3e-51c59f93d011)
+
    Người chơi chọn "Play" để bắt đầu trò chơi hoặc "Exit" để thoát khỏi trò chơi.
+   
 ![bat dau choi](https://github.com/user-attachments/assets/1b694631-d21a-4522-9b40-2c235293e1ae)
+
    Sau khi người chơi chọn "Play", màn chơi sẽ xuất hiện và người chơi cùng trải nghiệm game thôi! 
+   
    Người chơi sẽ chiến thắng khi đạt đủ số điểm trong thời gian nhất đinh mà game yêu cầu.
+   
 ![thang](https://github.com/user-attachments/assets/73751a57-f677-4af6-b2cd-1e2acd3e0f5a)
+
    Người chơi sẽ thua khi không đạt đủ số điểm hoặc hết thời gian.
+   
 ![thua](https://github.com/user-attachments/assets/71b358b5-15e4-4133-a836-f59052b3067b)
 
 3. CÁC THÀNH PHẦN TRONG GAME
