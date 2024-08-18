@@ -56,10 +56,22 @@
 5. TẢI GAME
    - Cài đặt và setup thư viện đồ họa sfml tại [đây](https://www.sfml-dev.org/).
    - Clone hoặc tải file zip project và thưởng thức thôi!!!
-   - 
+     
 6. SOURCE CODE GAME
    - Folder assets: chứa tất cả hình ảnh trong game.
    - Folder include: chứa các khai báo hàm thành phần của game
+       + Folder ability: quản lý các năng lực trong trò chơi.
+       + Folder Jewels: cung cấp các chức năng cơ bản và thuộc tính chung cho tất cả các loại ngọc trong game.
+       + Folder State: Quản lí các trạng thái khác nhau trong trò chơi.
+       + Board: đại diện cho bảng chơi trong trò chơi, bao gồm các ô và các viên kim cương. Lớp này cung cấp các chức năng cần thiết để quản lý và thao tác trên bảng, như hoán đổi vị trí của các viên ngọc, xáo trộn bảng, và kiểm tra sự hợp lệ của sự kết hợp các viên ngọc.
+       + Button: tạo và quản lý các nút bấm trong trò chơi.
+       + Game: quản lý toàn bộ vòng đời của trò chơi, từ khởi tạo đến điều khiển các trạng thái khác nhau của trò chơi.
+       + Move: kiểm tra tính hợp lệ của các lượt di chuyển, theo dõi số lượng lượt đi còn lại, và hiển thị thông tin về lượt đi trên màn hình.
+       + RandomNumberGenerator: Định nghĩa một hàm để tạo số ngẫu nhiên trong phạm vi cho trước.
+       + Score: quản lý và hiển thị điểm số trong trò chơi.
+       + Tile: đại diện cho các ô trên bảng trong trò chơi.
+       + Timer: quản lý và hiển thị đồng hồ đếm ngược trong trò chơi.
+       + configs: Định nghĩa các hằng số và cấu hình cơ bản cho trò chơi, bao gồm cấu hình cửa sổ, trạng thái trò chơi, thư mục tài nguyên, và các thông số trò chơi.
    - Folder src:
        + Ability: quản lý trạng thái và hiển thị của một khả năng (ability) trong trò chơi.
        + BlueJewel, GreenJewel, PinkJewel, RedJewel, VioletJewel, YellowJewel: Nạp texture từ file hình ảnh và gán cho sprite.
@@ -88,6 +100,7 @@
    - https://www.youtube.com/watch?v=YNXrFOynalE&list=PLB_ibvUSN7mzUffhiay5g5GUHyJRO4DYr&index=10
    - series C++ Sfml 2.0 Made Easy Tutorial: https://www.youtube.com/@CodingMadeEasy
    - https://www.youtube.com/watch?v=TXbRUdZSefw
+   - thư viện sfml: https://www.sfml-dev.org/
 
 
 
