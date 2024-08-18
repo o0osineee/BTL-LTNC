@@ -1,7 +1,7 @@
 # BTL-LTNC - Jewel
 
 1. GIỚI THIỆU GAME
-   Jewel Castle là một trò chơi giải đố. Jewel Castle thách thức người chơi ghép các viên ngọc và tạo ra các combo. Đổi chỗ các viên ngọc, ghép ít nhất 3 viên ngọc lại với nhau và cố gắng đạt được số điểm cao nhất trong thời gian giới hạn!!!
+   - Jewel Castle là một trò chơi giải đố. Jewel Castle thách thức người chơi ghép các viên ngọc và tạo ra các combo. Đổi chỗ các viên ngọc, ghép ít nhất 3 viên ngọc lại với nhau và cố gắng đạt được số điểm cao nhất trong thời gian giới hạn!!!
 
 2. CHƠI GAME
    Sau khi khởi chạy code chờ một lúc, màn hình game sẽ hiện lên
@@ -94,7 +94,7 @@
        + WinState: quản lý trạng thái trò chơi khi người chơi chiến thắng.
     
 8. DEMO GAME
-   - Link video demo game:
+   - Link video demo game:https://drive.google.com/file/d/1Wn_STkPQCG1AilhyKHndBiwD8rXHGW4n/view?usp=sharing
   
 9. TÀI LIỆU THAM KHẢO
    - https://www.youtube.com/watch?v=YNXrFOynalE&list=PLB_ibvUSN7mzUffhiay5g5GUHyJRO4DYr&index=10
