@@ -54,10 +54,10 @@
    Người chơi ghép các viên kim cương với nhau tạo thành chuỗi để được điểm và cố gắng đạt đến mốc điểm mà game chỉ định trong một khoảng thời gian để dành được chiến thắng.
 
 5. TẢI GAME
-   - Cài đặt và setup thư viện đồ họa sfml tại [đây](https://www.sfml-dev.org/).
-   - Clone hoặc tải file zip project và thưởng thức thôi!!!
+   - mình đã config thư viện sfml sẵn ở trong project nên mọi người chỉ cần clone hoặc tải file zip của project về và mở Game.sln để trải nghiệm thôi.
+   - ngoài ra trong file Debug cũng có chương trình game exe nên mọi người có thể vào đó để chơi.
      
-6. SOURCE CODE GAME
+7. SOURCE CODE GAME
    - Folder assets: chứa tất cả hình ảnh trong game.
    - Folder include: chứa các khai báo hàm thành phần của game
        + Folder ability: quản lý các năng lực trong trò chơi.
@@ -93,10 +93,10 @@
        + Timer: quản lý và hiển thị đồng hồ đếm ngược trong trò chơi.
        + WinState: quản lý trạng thái trò chơi khi người chơi chiến thắng.
     
-7. DEMO GAME
+8. DEMO GAME
    - Link video demo game:
   
-8. TÀI LIỆU THAM KHẢO
+9. TÀI LIỆU THAM KHẢO
    - https://www.youtube.com/watch?v=YNXrFOynalE&list=PLB_ibvUSN7mzUffhiay5g5GUHyJRO4DYr&index=10
    - series C++ Sfml 2.0 Made Easy Tutorial: https://www.youtube.com/@CodingMadeEasy
    - https://www.youtube.com/watch?v=TXbRUdZSefw
